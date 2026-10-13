@@ -53,12 +53,3 @@ configuration selection, and prediction. Includes the patient-grouped
 - The custom OHIF viewer extension.
 - Model weights, all datasets, all results.
 
-## Before any of this goes public
-
-These files carry internal absolute paths, a cluster username, a research group
-name, and internal dataset identifiers (`D_E3g9vr`, `D_jrLpYr`). They also wrap
-`body_composition_tool`, which is lab code, not yours. And the analysis they
-produced is an unpublished manuscript targeting SPIE Medical Imaging 2027.
-
-Scrub the first set before publishing anything. Ask Dr. Mukherjee about the
-second two.
